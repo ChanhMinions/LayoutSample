@@ -37,3 +37,23 @@
  - Sau Khi chúng Ta tạo Xong như Bài Trước chúng ta làm tương tự với bài này
   ![image](Untitled11.png)
  
+ 
+ - Layout Inspector
+ - Android Studio 3.X cung cấp một cung cụ tiện ích là Layout Inspector giúp chúng ta kiểm soát, so sánh các layouts tốt hơn. Để dùng Layout Inspector chúng ta cần:
+
+- Mở ứng dụng từ máy ảo Android hay Genymotion
+- Vào Tools > Layout Inspector
+- Chọn ứng dụng từ hộp thoại Choose Process
+
+ - Khung ViewTree sẽ xuất hiện cho phép chúng ta xem các thành phần giao diện trong khi ứng dụng đang chạy
+ - Như Trên Hình
+ 
+ ### Chúc Các Bạn Thành Công !!!
+
+### Bạn Có Thể Xem Bài Tiếp Theo:
+
+- <a href="https://github.com/ChanhMinions/TESTVIEW">Các views cơ bản và trong giao diện ứng dụng Android!</a>
+
+![image](ezr.png)
+
+                                                                                  Trần Phú , Ngày 23 tháng 7 Năm 2020
